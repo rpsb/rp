@@ -2,6 +2,7 @@
 
 void even()
 {
+	int a;
 	printf("enter a number\n");
 	scanf("%d",&a)
 	if(a%2==0)
