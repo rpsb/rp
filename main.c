@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
 
 void main()
 {
-	fact();
-	oddeven();
-	sumof2no();
+	f1();
+	f2();
+	even();
 }
